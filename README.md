@@ -6,7 +6,7 @@ I am a Senior Frontend Engineer based in Dresden, Germany, with 10+ years of pro
 
 My main focus is React, Angular, and TypeScript. I also work across the stack with Node.js, NestJS, REST APIs, GraphQL, MongoDB, and Redis when a product needs end-to-end ownership.
 
-## Core stack
+## My Core stack
 
 - **Frontend:** React, Angular, Next.js, TypeScript, JavaScript, Redux Toolkit, NgRx, RxJS
 - **Backend and data:** Node.js, NestJS, Express, REST, GraphQL, MongoDB, Redis
