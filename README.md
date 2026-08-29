@@ -33,6 +33,7 @@ My core is frontend engineering. I also work across the stack with Node.js, Nest
 
 ## Architecture projects
 
+- **NeonDeck** — private, work-in-progress local-first Electron developer command center with multi-project context, narrow validated IPC, local SQLite persistence, bounded integrations, and explicit separation between project-owned processes and read-only machine inventory. The current invite-only tester preview is unsigned and limited to Apple-silicon macOS.
 - [Engineering Observatory](https://github.com/sujithgnth/engineering-observatory) — work-in-progress, local-first repository analysis designed around deterministic, source-backed findings.
 - [KeyNest](https://github.com/sujithgnth/password-manager) — work-in-progress educational password-vault architecture focused on browser-side encryption and explicit trust boundaries.
 - [ScaleForge](https://github.com/sujithgnth/scaleforge) — backend architecture project exploring transactional workflows, asynchronous reliability, and observability in a NestJS modular monolith.
