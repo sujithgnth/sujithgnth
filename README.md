@@ -48,4 +48,4 @@ I am focused on Senior Frontend and frontend-heavy Full-stack TypeScript opportu
 
 ## Connect
 
-[Portfolio](https://sujithgnth.github.io/sujeithgopinath/) · [LinkedIn](https://www.linkedin.com/in/sujithnath/) · [GitHub](https://github.com/sujithgnth)
+[Portfolio](https://sujithgnth.github.io/sujeithgopinath/) · [Résumé (PDF)](https://sujithgnth.github.io/sujeithgopinath/assets/resume/sujeith-gopinath-resume-en.pdf?v=20260909.1) · [LinkedIn](https://www.linkedin.com/in/sujithnath/) · [GitHub](https://github.com/sujithgnth)
