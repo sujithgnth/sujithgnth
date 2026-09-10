@@ -1,32 +1,29 @@
 # Hi, I'm Sujeith Gopinath
 
-**Senior Frontend Engineer | TypeScript · React · Angular · Next.js | Scalable Frontend Architecture**
+**Senior Full-Stack TypeScript Engineer | React · Angular · TypeScript · Next.js · Node.js · NestJS**
 
-I am a Senior Frontend Engineer based in Dresden, Germany, with 10+ years of experience designing and delivering scalable TypeScript applications across logistics, robotics, food delivery, and AI-powered enterprise platforms.
-
-I specialise in frontend architecture, React, Angular, Nx monorepos, state management, performance optimisation, and maintainable application ecosystems. I own technical decisions from architecture design through implementation, automated testing, deployment, and production improvement while collaborating with product, design, and backend teams.
-
-My core is frontend engineering. I also work across the stack with Node.js, NestJS, APIs, and data stores when a product needs end-to-end ownership.
+Senior Full-Stack TypeScript Engineer with 10+ years of experience across AI document processing, robotics, logistics and food delivery. I own features end to end across React and Angular frontends, Node.js/NestJS APIs, MongoDB/Redis data access, testing and production debugging. Based in Dresden, Germany.
 
 ## Engineering focus
 
 - **Frontend:** TypeScript, React, Angular, Next.js, JavaScript, Redux Toolkit, NgRx, RxJS, GraphQL with Apollo Client, and Tailwind CSS
-- **Architecture:** Nx monorepos, component architecture, reusable component systems, microfrontends, state architecture, and API abstraction
+- **Architecture:** Nx monorepos, component architecture, reusable component systems, state architecture, and API abstraction
 - **Quality:** Performance optimisation, automated testing strategy, production debugging, security fundamentals, and CI/CD
 - **Backend and data:** Node.js, NestJS, Express, REST APIs, GraphQL, MongoDB, PostgreSQL, Redis, S3-compatible storage, and authentication
 - **Delivery:** Playwright, Cypress, Jest, React Testing Library, Storybook, Docker, CI/CD, Vite, and Webpack
 
 ## Selected impact
 
-- Owned frontend architecture for Angular, TypeScript, and Nx AI document-verification workflows, including multi-annotator task distribution, validation states, conflict handling, and automated approval mechanisms.
-- Owned the architecture and end-to-end delivery of a React and TypeScript robot-control frontend, including Redux Toolkit state management and a Blockly-based motion workflow.
-- Reduced measured application load time from approximately **5.0 seconds to 1.7 seconds** through frontend performance optimisation.
-- Modernised a legacy logistics frontend into a React, Redux, and TypeScript application with clearer domain, state, and API boundaries.
-- Served as the primary frontend engineer for a restaurant-vendor application as daily usage grew from approximately **3,000 to 25,000 users**.
+- I architected and owned document-verification and annotation workflows across Angular, NestJS and MongoDB, used by approximately 100 annotators across 5 enterprise customers. Successful review completion increased from roughly 30% to 80%.
+- Standardised multi-annotator review with IoU-based comparison, thresholds and backend validation, achieving 100% adoption across annotation teams and contributing to 12% revenue growth.
+- Introduced a NestJS preview API backed by S3-compatible MinIO, reducing average document load time from roughly 16 seconds to 4 seconds.
+- I led migration and in-house adoption of the React/TypeScript robot-control platform, establishing internal ownership of application architecture and delivery standards. I built core product areas across the React frontend and supporting APIs within 4 months.
+- Reduced measured initial application load time from approximately **7.0 seconds to 1.7 seconds**.
+- As primary frontend engineer, I owned restaurant-vendor workflows as daily usage grew from approximately 3,000 to 25,000 users. I also built and maintained a Node.js/Express backend-for-frontend layer using GraphQL/Apollo and Redis.
 
 ## Experience snapshot
 
-- **Elevait GmbH — Full-Stack JavaScript Developer (2023–Present):** Angular, TypeScript, Nx, NgRx, NestJS, MongoDB, and Playwright for AI document-verification, multi-annotator, and human-review workflows.
+- **Elevait GmbH — Senior Full-Stack TypeScript Engineer (2023–Present):** Angular, TypeScript, Nx, NgRx, NestJS, MongoDB, and Playwright for AI document-verification, multi-annotator, and human-review workflows.
 - **Coboworx GmbH — Senior Frontend Engineer (2022–2023):** React and TypeScript architecture for robot-control workflows, reusable components, performance, and Cypress coverage.
 - **LoadShare Network — Senior Frontend Engineer (2018–2022):** React and TypeScript modernisation for audit, cash-on-delivery, and item-tracking workflows.
 - **Swiggy — Frontend Engineer (2016–2018):** React, Next.js, Redux, Node.js, GraphQL, Redis, PWA, and vendor order management.
@@ -40,7 +37,7 @@ My core is frontend engineering. I also work across the stack with Node.js, Nest
 
 ## Current focus
 
-I am focused on Senior Frontend and frontend-heavy Full-stack TypeScript opportunities in Germany while growing toward hands-on software architecture. I care about pragmatic technical decisions, production reliability, performance, maintainability, and clear cross-functional collaboration.
+I am focused on Senior Full-Stack TypeScript opportunities with strong frontend ownership in Germany while growing toward hands-on software architecture. I care about pragmatic technical decisions, production reliability, performance, maintainability, and clear cross-functional collaboration.
 
 - Based in Dresden, Germany
 - Permanent German work authorisation; available immediately; no sponsorship required
@@ -48,4 +45,4 @@ I am focused on Senior Frontend and frontend-heavy Full-stack TypeScript opportu
 
 ## Connect
 
-[Portfolio](https://sujithgnth.github.io/sujeithgopinath/) · [Résumé (PDF)](https://sujithgnth.github.io/sujeithgopinath/assets/resume/sujeith-gopinath-resume-en.pdf?v=20260909.2) · [LinkedIn](https://www.linkedin.com/in/sujithnath/) · [GitHub](https://github.com/sujithgnth)
+[Portfolio](https://sujithgnth.github.io/sujeithgopinath/) · [Résumé (PDF)](https://sujithgnth.github.io/sujeithgopinath/assets/resume/sujeith-gopinath-resume-en.pdf?v=20260910.1) · [LinkedIn](https://www.linkedin.com/in/sujithnath/) · [GitHub](https://github.com/sujithgnth)
