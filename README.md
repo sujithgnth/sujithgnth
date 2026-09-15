@@ -13,9 +13,9 @@ Senior Full-Stack TypeScript Engineer with 10+ years building production applica
 
 ## Selected impact
 
-- Owned an Angular, NestJS and MongoDB document-annotation tool used by approximately 200 annotators, increasing successful review completion from roughly 30% to 80%.
-- Built a multi-annotator workflow that reached 100% adoption and contributed to 12% revenue growth.
-- Owned a frontend/backend Verifier workflow whose server-side validation contributed to the acquisition of SachsenEnergie.
+- Built and owned an Angular/NestJS/MongoDB annotation workspace implementing document loading, annotation editing, persistence and validation; it was used by approximately 200 annotators and increased successful annotation-task completion from roughly 30% to 80%.
+- Built a multi-annotator workflow with IoU-based reviewer comparison, configurable thresholds and automated approval rules; it reached 100% adoption and contributed to 12% revenue growth.
+- Owned the Verifier workflow with configurable customer validation rules, approval criteria and server-side checks; it contributed to the acquisition of SachsenEnergie.
 - Modernised a NestJS/MongoDB search API for 50,000+ documents, reducing response time from roughly 10–15 seconds to around 2 seconds and helping retain LBS.
 - Redesigned document delivery with a MinIO-backed preview API, reducing payloads to KB-scale and load time from roughly 16 seconds to 4 seconds.
 - Cut the Coboworx robot-control application’s initial load time from roughly 7.0 seconds to 1.7 seconds.
@@ -23,7 +23,7 @@ Senior Full-Stack TypeScript Engineer with 10+ years building production applica
 
 ## Experience snapshot
 
-- **Elevait GmbH — Senior Full-Stack TypeScript Engineer (2023–2026):** End-to-end document annotation, verification, search and delivery across Angular, NestJS and MongoDB.
+- **Elevait GmbH — Senior Full-Stack TypeScript Engineer (2023–2026):** Built and owned document annotation, multi-annotator review, verification, search and delivery across Angular, NestJS and MongoDB.
 - **Coboworx GmbH — Senior Frontend Engineer (2022–2023):** React/TypeScript robot-control workflows, Node.js APIs, PostgreSQL, Redis, WebSockets, performance and Cypress.
 - **LoadShare Network — Senior Frontend Engineer (2018–2022):** React/TypeScript modernisation plus Node.js, PostgreSQL/Prisma, S3 and real-time logistics workflows.
 - **Swiggy — Frontend Engineer (2016–2018):** React, Redux, Node.js/Express, GraphQL/Apollo, Redis, RabbitMQ and PWA vendor-order workflows.
@@ -46,4 +46,4 @@ I am focused on Senior Full-Stack TypeScript opportunities with strong frontend 
 
 ## Connect
 
-[Portfolio](https://sujithgnth.github.io/sujeithgopinath/) · [Résumé (PDF)](https://sujithgnth.github.io/sujeithgopinath/assets/resume/sujeith-gopinath-resume-en.pdf?v=20260912.1) · [LinkedIn](https://www.linkedin.com/in/sujithnath/) · [GitHub](https://github.com/sujithgnth)
+[Portfolio](https://sujithgnth.github.io/sujeithgopinath/) · [Résumé (PDF)](https://sujithgnth.github.io/sujeithgopinath/assets/resume/sujeith-gopinath-resume-en.pdf?v=20260915.1) · [LinkedIn](https://www.linkedin.com/in/sujithnath/) · [GitHub](https://github.com/sujithgnth)
