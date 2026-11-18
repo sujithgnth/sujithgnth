@@ -12,8 +12,5 @@ Senior Full-Stack TypeScript Engineer with 10+ years building production applica
 - **Systems:** Electron desktop architecture, asynchronous messaging, transactional outbox patterns, and observability with OpenTelemetry, Prometheus and Grafana
 - **Quality and tooling:** Playwright, Cypress, Jest, Vitest, Testcontainers, Storybook, Docker, CI/CD, Vite, Webpack and production debugging
 
-## Activity
-
-<img src="dist/graph.svg" alt="Animated contribution graph">
 
 <!-- gh-anim {"preset":"aurora","hue":80,"duration":10,"spread":180} -->
