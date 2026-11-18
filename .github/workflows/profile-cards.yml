@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '43 4 * * *'   # daily
   push:
-    branches: [main]
+    branches: [main, profile-cards]   # TEMP: remove before merge
     paths:
       - profile.json
       - scripts/**
