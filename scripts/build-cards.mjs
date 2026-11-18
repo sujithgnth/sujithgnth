@@ -93,6 +93,7 @@ export function topLanguages(repos, count) {
   const total = [...sizes.values()].reduce((sum, l) => sum + l.size, 0) || 1;
   return [...sizes.entries()]
     .map(([name, { size, color }]) => ({ name, color: safeColor(color), pct: (size / total) * 100 }))
+    .filter((l) => l.pct >= 1) // a 0% bar is noise
     .sort((a, b) => b.pct - a.pct)
     .slice(0, count);
 }
@@ -127,7 +128,8 @@ export function headerSvg(cfg) {
 
 export function activitySvg({ total, streak, languages }) {
   const H = 156;
-  const label = `${total} contributions in the last year. Current streak ${streak.current} days, best ${streak.best} days.`;
+  const days = (n) => `${n} day${n === 1 ? '' : 's'}`;
+  const label = `${total} contributions in the last year. Current streak ${days(streak.current)}, best ${days(streak.best)}.`;
   const barX = 520;
   const barW = 200;
 
@@ -144,7 +146,6 @@ export function activitySvg({ total, streak, languages }) {
     .join('\n');
 
   const fmt = (n) => Number(n).toLocaleString('en-US');
-  const days = (n) => `${n} day${n === 1 ? '' : 's'}`;
 
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}" role="img" aria-label="${xml(label)}">
 <title>${xml(label)}</title>
