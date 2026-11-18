@@ -11,3 +11,5 @@ Senior Full-Stack TypeScript Engineer with 10+ years building production applica
 - **Architecture:** Domain boundaries, state ownership, reusable component systems, data-access layers and API design
 - **Systems:** Electron desktop architecture, asynchronous messaging, transactional outbox patterns, and observability with OpenTelemetry, Prometheus and Grafana
 - **Quality and tooling:** Playwright, Cypress, Jest, Vitest, Testcontainers, Storybook, Docker, CI/CD, Vite, Webpack and production debugging
+
+<!-- gh-anim {"preset":"aurora","hue":80,"duration":10,"spread":180} -->
