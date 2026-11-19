@@ -24,11 +24,11 @@
 <text class="muted head" x="400" y="32">LANGUAGES</text>
 <text class="fg lang" x="400" y="61">TypeScript</text>
 <rect class="track" x="520" y="52" width="200" height="10" rx="5"/>
-<rect class="bar" x="520" y="52" width="175.7" height="10" rx="5" fill="#3178c6" style="animation-delay:0.30s"/>
+<rect class="bar" x="520" y="52" width="175.4" height="10" rx="5" fill="#3178c6" style="animation-delay:0.30s"/>
 <text class="muted pct" x="732" y="61">88%</text>
 <text class="fg lang" x="400" y="87">JavaScript</text>
 <rect class="track" x="520" y="78" width="200" height="10" rx="5"/>
-<rect class="bar" x="520" y="78" width="20.6" height="10" rx="5" fill="#f1e05a" style="animation-delay:0.42s"/>
+<rect class="bar" x="520" y="78" width="20.9" height="10" rx="5" fill="#f1e05a" style="animation-delay:0.42s"/>
 <text class="muted pct" x="732" y="87">10%</text>
 <text class="fg lang" x="400" y="113">HTML</text>
 <rect class="track" x="520" y="104" width="200" height="10" rx="5"/>
