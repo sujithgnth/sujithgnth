@@ -9,8 +9,8 @@ Senior Full-Stack TypeScript Engineer with 10+ years building production applica
 <!-- now-building:start -->
 ### Now building
 
-- **[keynest](https://github.com/sujithgnth/keynest)** · WIP educational password vault demonstrating browser-side encryption and production-style… · _updated 2 days ago_
-- **[engineering-observatory](https://github.com/sujithgnth/engineering-observatory)** · Work in progress — evidence-first engineering analysis built with TypeScript, JavaScript,… · _updated 3 days ago_
+- **[keynest](https://github.com/sujithgnth/keynest)** · WIP educational password vault demonstrating browser-side encryption and production-style… · _updated 3 days ago_
+- **[engineering-observatory](https://github.com/sujithgnth/engineering-observatory)** · Work in progress — evidence-first engineering analysis built with TypeScript, JavaScript,… · _updated 4 days ago_
 - **[scaleforge](https://github.com/sujithgnth/scaleforge)** · Production-style NestJS modular monolith for resilience, messaging, observability and dep… · _updated 2 months ago_
 <!-- now-building:end -->
 
